@@ -414,13 +414,16 @@ body{
 .nav-link{
    text-transform: capitalize;
    color: black;
-   font-size: 14px;
+   font-size: 16px;
    text-decoration: none;
    padding: 5px;
-   transition: .3s;
+   
 }
-.hav-link:hover, .nav-link:focus, .nav-link:active{
-   opacity: .5;
+  .nav-link:active {
+   color: green;
+}
+.nav-link:hover{
+   color:gray;
 }
 /* style main start*/
 
@@ -436,12 +439,15 @@ body{
 
 
 .intro-title-name {
-   font-size: 20px;
+   font-size: 22px;
    font-weight: 700;
    padding-bottom: 10px;
    text-align: center;
    margin-bottom: 15px;
    border-bottom: 1px solid red;
+}
+.intro-title-position{
+   font-size: 16px;
 }
 img { 
    max-width: 100%;
@@ -496,6 +502,9 @@ img {
 .social-media{
    margin-right: 10px;
    text-decoration: none;
+}
+.footer-year{
+   margin-left: 35px;
 }
 
 @media (max-width:500px){
