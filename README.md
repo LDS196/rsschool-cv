@@ -1,1 +1,1 @@
-# rsschool-cv
+https://lds196.github.io/rsschool-cv/cv
