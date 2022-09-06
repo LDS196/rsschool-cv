@@ -38,7 +38,7 @@ __Objective:__ а specialist, а engineer<br>
 #### Skills and Knowledge:
 
 + Microsoft Office (Outlook, PowerPoint, Word, Excel) – advanced user 
-+ HTML5,CSS3,GitHub,VSCode;
++ HTML5,CSS3,SCCS,JS,GitHub,VSCode;
 + learning English language;
 + Driver license – Category B;
 
